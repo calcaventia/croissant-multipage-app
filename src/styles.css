@@ -1,0 +1,18 @@
+body {
+  background-color: #dfd3c3;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (min-width: 800px) {
+  img {
+    max-width: 900px;
+    width: 100%;
+  }
+}
+
+.color-a {
+  color: green;
+}
